@@ -1,0 +1,11 @@
+C:\Users\manabat.270056\source\repos\FormBasicThread\FormBasicThread\bin\Debug\FormBasicThread.exe.config
+C:\Users\manabat.270056\source\repos\FormBasicThread\FormBasicThread\bin\Debug\FormBasicThread.exe
+C:\Users\manabat.270056\source\repos\FormBasicThread\FormBasicThread\bin\Debug\FormBasicThread.pdb
+C:\Users\manabat.270056\source\repos\FormBasicThread\FormBasicThread\obj\Debug\FormBasicThread.csproj.AssemblyReference.cache
+C:\Users\manabat.270056\source\repos\FormBasicThread\FormBasicThread\obj\Debug\FormBasicThread.csproj.SuggestedBindingRedirects.cache
+C:\Users\manabat.270056\source\repos\FormBasicThread\FormBasicThread\obj\Debug\FormBasicThread.FrmBasicThread.resources
+C:\Users\manabat.270056\source\repos\FormBasicThread\FormBasicThread\obj\Debug\FormBasicThread.Properties.Resources.resources
+C:\Users\manabat.270056\source\repos\FormBasicThread\FormBasicThread\obj\Debug\FormBasicThread.csproj.GenerateResource.cache
+C:\Users\manabat.270056\source\repos\FormBasicThread\FormBasicThread\obj\Debug\FormBasicThread.csproj.CoreCompileInputs.cache
+C:\Users\manabat.270056\source\repos\FormBasicThread\FormBasicThread\obj\Debug\FormBasicThread.exe
+C:\Users\manabat.270056\source\repos\FormBasicThread\FormBasicThread\obj\Debug\FormBasicThread.pdb
